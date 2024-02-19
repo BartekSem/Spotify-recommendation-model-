@@ -1,0 +1,1 @@
+client_id = "d4e90f7eed864b2ca1b9a8787e3a6fae"client_secret ="5d20fdcc663d4aac84fe885a86a4d917"
